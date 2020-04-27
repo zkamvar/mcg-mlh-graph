@@ -1,7 +1,7 @@
 # mcg-mlh-graph
 
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zkamvar/mcg-mlh-graph/master)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zkamvar/mcg-mlh-graph/master?urlpath=rstudio)
 
 An interactive visualization of the MCG/MLH graph from Kamvar et al. 2017
 
